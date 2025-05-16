@@ -39,6 +39,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Solid State Logic (SSL)® G-Master Buss™                      | [BUSTERse](https://www.patreon.com/posts/busterse-42658623)                           |
 | Studer® 169 EQ™                                              | [STEQ](https://www.patreon.com/posts/steq-35318911)                                   |
 | Teletronix® LA-2A™                                           | [LALA](https://www.patreon.com/posts/lala-36128829)                                   |
+| SPL® Transient Designer™                                     | [TRAX](https://www.patreon.com/posts/70970958)                                        |
 | Universal Audio (UA)® 176™ Tube Compressor                   | [OSS](https://www.patreon.com/posts/oss-34292591)                                     |
 | Universal Audio (UA)® 610™ Tube Preamp                       | [TUBA](https://www.patreon.com/posts/49184069)                                        |
 | Universal Audio (UA)® 1176™ FET Compressor                   | [FETish](https://www.patreon.com/posts/51962024)                                      |
