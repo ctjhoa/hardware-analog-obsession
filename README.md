@@ -32,6 +32,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Esoteric Audio Research (E.A.R)® Limiting Amplifier 660™     | [VariMoon](https://www.patreon.com/posts/varimoon-34323360)                           |
 | Harrison® 32C™                                               | [HARQULES](https://www.patreon.com/posts/harqules-34306427)                           |
 | Helios® Type 69™ Preamp and EQ                               | [HLQSE](https://www.patreon.com/posts/hlqse-34292290)                                 |
+| Mojo Maestro                                                 | [MoMa](https://www.patreon.com/posts/moma-100041804)                                  |
 | Neumann® W492™                                               | [N492ME](https://www.patreon.com/posts/n492me-34323127)                               |
 | Neve® 1073™                                                  | [BritChannel](https://www.patreon.com/posts/britbundle-79798060)                      |
 | Neve® 8028™                                                  | [CHANNEV](https://www.patreon.com/posts/channev-52960238)                             |
@@ -44,6 +45,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Telefunken® W395 EQ™                                         | [G395a](https://www.patreon.com/posts/g395a-50059272)                                 |
 | Teletronix® LA-2A™                                           | [LALA](https://www.patreon.com/posts/lala-36128829)                                   |
 | Trident Audio® 80B-500 EQ™                                   | [TREQ](https://www.patreon.com/posts/treq-34323331)                                   |
+| Trident® CB-9146™ Compressor                                 | [FetCB](https://www.patreon.com/posts/fetcb-92444426)                                 |
 | Regular John Recording (RJR)® Baxandall Mastering EQ™        | [MAXBAX](https://www.patreon.com/posts/maxbax-64791433)                               |
 | SPL® Transient Designer™                                     | [TRAX](https://www.patreon.com/posts/70970958)                                        |
 | Universal Audio (UA)® 176™ Tube Compressor                   | [OSS](https://www.patreon.com/posts/oss-34292591)                                     |
