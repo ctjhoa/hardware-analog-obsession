@@ -23,7 +23,8 @@ The maintainer of this page respects all intellectual property rights. This list
 | Altec® 436c™                                                 | [YALA](https://www.patreon.com/posts/yala-34323384)                                   |
 | API Audio® 560 Graphic EQ™                                   | [GrapHack](https://www.patreon.com/posts/graphack-80663451)                           |
 | API Audio® 550A EQ™                                          | [MERICA](https://www.patreon.com/posts/american-bundle-55358141)                      |
-| Collins® 26u™                                                | [Kolin](https://www.patreon.com/posts/49184069)
+| Charter Oak® PEQ-1™                                          | [OAQ](https://www.patreon.com/posts/oaq-69993062)                                     |
+| Collins® 26u™                                                | [Kolin](https://www.patreon.com/posts/49184069)                                       |
 | Dangerous Music® BAX EQ™                                     | [BXQ](https://www.patreon.com/posts/bxq-35000375)                                     |
 | dbx® 160™ Compressor / Limiter                               | [dBComp](https://www.patreon.com/posts/dbcomp-56933944)                               |
 | Esoteric Audio Research (E.A.R)® Limiting Amplifier 660™     | [VariMoon](https://www.patreon.com/posts/varimoon-34323360)                           |
