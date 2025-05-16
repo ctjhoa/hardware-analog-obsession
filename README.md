@@ -20,7 +20,6 @@ The maintainer of this page respects all intellectual property rights. This list
 
 | Original Hardware Product Name & Manufacturer                | Analog Obsession Plugin (Commonly Discussed in Relation To / Perceived Inspiration)   |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| Altec® 436c™                                                 | [YALA](https://www.patreon.com/posts/yala-34323384)                                   |
 | API Audio® 560 Graphic EQ™                                   | [GrapHack](https://www.patreon.com/posts/graphack-80663451)                           |
 | API Audio® 550A EQ™                                          | [MERICA](https://www.patreon.com/posts/american-bundle-55358141)                      |
 | Charter Oak® PEQ-1™                                          | [OAQ](https://www.patreon.com/posts/oaq-69993062)                                     |
@@ -28,6 +27,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Dangerous Music® BAX EQ™                                     | [BXQ](https://www.patreon.com/posts/bxq-35000375)                                     |
 | dbx® 160™ Compressor / Limiter                               | [dBComp](https://www.patreon.com/posts/dbcomp-56933944)                               |
 | EMI® REDD.51™ tube console                                   | [PREDD](https://www.patreon.com/posts/predd-57672680)                                 |
+| EMI® RS124™ / Altec® 436c™                                   | [YALA](https://www.patreon.com/posts/yala-34323384)                                   |
 | EMT® 140™                                                    | [Room041](https://www.patreon.com/posts/room041-55993203)                             |
 | Esoteric Audio Research (E.A.R)® Limiting Amplifier 660™     | [VariMoon](https://www.patreon.com/posts/varimoon-34323360)                           |
 | Harrison® 32C™                                               | [HARQULES](https://www.patreon.com/posts/harqules-34306427)                           |
