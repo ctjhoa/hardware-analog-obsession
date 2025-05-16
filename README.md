@@ -31,6 +31,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Esoteric Audio Research (E.A.R)® Limiting Amplifier 660™     | [VariMoon](https://www.patreon.com/posts/varimoon-34323360)                           |
 | Harrison® 32C™                                               | [HARQULES](https://www.patreon.com/posts/harqules-34306427)                           |
 | Helios® Type 69™ Preamp and EQ                               | [HLQSE](https://www.patreon.com/posts/hlqse-34292290)                                 |
+| Neumann® W492™                                               | [N492ME](https://www.patreon.com/posts/n492me-34323127)                               |
 | Neve® 1073™                                                  | [BritChannel](https://www.patreon.com/posts/britbundle-79798060)                      |
 | Neve® 8028™                                                  | [CHANNEV](https://www.patreon.com/posts/channev-52960238)                             |
 | Neve® 2264A™ CV Compressor/Limiter                           | [Britpressor ](https://www.patreon.com/posts/britbundle-79798060)                     |
