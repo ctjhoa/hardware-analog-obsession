@@ -44,6 +44,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Telefunken® W395 EQ™                                         | [G395a](https://www.patreon.com/posts/g395a-50059272)                                 |
 | Teletronix® LA-2A™                                           | [LALA](https://www.patreon.com/posts/lala-36128829)                                   |
 | Trident Audio® 80B-500 EQ™                                   | [TREQ](https://www.patreon.com/posts/treq-34323331)                                   |
+| Regular John Recording (RJR)® Baxandall Mastering EQ™        | [MAXBAX](https://www.patreon.com/posts/maxbax-64791433)                               |
 | SPL® Transient Designer™                                     | [TRAX](https://www.patreon.com/posts/70970958)                                        |
 | Universal Audio (UA)® 176™ Tube Compressor                   | [OSS](https://www.patreon.com/posts/oss-34292591)                                     |
 | Universal Audio (UA)® 610™ Tube Preamp                       | [TUBA](https://www.patreon.com/posts/49184069)                                        |
