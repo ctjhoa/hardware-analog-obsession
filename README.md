@@ -28,6 +28,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Dangerous Music® BAX EQ™                                     | [BXQ](https://www.patreon.com/posts/bxq-35000375)                                     |
 | dbx® 160™ Compressor / Limiter                               | [dBComp](https://www.patreon.com/posts/dbcomp-56933944)                               |
 | EMI® REDD.51™ tube console                                   | [PREDD](https://www.patreon.com/posts/predd-57672680)                                 |
+| EMT® 140™                                                    | [Room041](https://www.patreon.com/posts/room041-55993203)                             |
 | Esoteric Audio Research (E.A.R)® Limiting Amplifier 660™     | [VariMoon](https://www.patreon.com/posts/varimoon-34323360)                           |
 | Harrison® 32C™                                               | [HARQULES](https://www.patreon.com/posts/harqules-34306427)                           |
 | Helios® Type 69™ Preamp and EQ                               | [HLQSE](https://www.patreon.com/posts/hlqse-34292290)                                 |
