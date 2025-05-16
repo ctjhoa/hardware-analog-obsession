@@ -40,6 +40,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Solid State Logic (SSL)® E series EQ™                        | [SSQ](https://www.patreon.com/posts/ssq-54598496)                                     |
 | Solid State Logic (SSL)® G-Master Buss™                      | [BUSTERse](https://www.patreon.com/posts/busterse-42658623)                           |
 | Studer® 169 EQ™                                              | [STEQ](https://www.patreon.com/posts/steq-35318911)                                   |
+| Telefunken® W395 EQ™                                         | [G395a](https://www.patreon.com/posts/g395a-50059272)                                 |
 | Teletronix® LA-2A™                                           | [LALA](https://www.patreon.com/posts/lala-36128829)                                   |
 | SPL® Transient Designer™                                     | [TRAX](https://www.patreon.com/posts/70970958)                                        |
 | Universal Audio (UA)® 176™ Tube Compressor                   | [OSS](https://www.patreon.com/posts/oss-34292591)                                     |
