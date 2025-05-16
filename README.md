@@ -32,8 +32,10 @@ The maintainer of this page respects all intellectual property rights. This list
 | Neve® 8028™                                                  | [CHANNEV](https://www.patreon.com/posts/channev-52960238)                             |
 | Neve® 2264A™ CV Compressor/Limiter                           | [Britpressor ](https://www.patreon.com/posts/britbundle-79798060)                     |
 | Pultec® EQP-1A™                                              | [Rare Bundle](https://www.patreon.com/posts/rare-bundle-90832098) / [POORTEC](https://www.patreon.com/posts/poortec-119632465) |
+| Rupert Neve Designs® Portico 5033™                           | [FIVER](https://www.patreon.com/posts/fiver-48483719)                                 |
 | Solid State Logic (SSL)® E series EQ™                        | [SSQ](https://www.patreon.com/posts/ssq-54598496)                                     |
 | Solid State Logic (SSL)® G-Master Buss™                      | [BUSTERse](https://www.patreon.com/posts/busterse-42658623)                           |
+| Studer® 169 EQ™                                              | [STEQ](https://www.patreon.com/posts/steq-35318911)                                   |
 | Teletronix® LA-2A™                                           | [LALA](https://www.patreon.com/posts/lala-36128829)                                   |
 | Universal Audio (UA)® 176™ Tube Compressor                   | [OSS](https://www.patreon.com/posts/oss-34292591)                                     |
 | Universal Audio (UA)® 610™ Tube Preamp                       | [TUBA](https://www.patreon.com/posts/49184069)                                        |
