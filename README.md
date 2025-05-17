@@ -27,7 +27,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Dangerous Music® BAX EQ™                                     | [BXQ](https://www.patreon.com/posts/bxq-35000375)                                     |                                                |
 | dbx® 160™ Compressor / Limiter                               | [dBComp](https://www.patreon.com/posts/dbcomp-56933944)                               |                                                |
 | EMI® REDD.51™ tube console                                   | [PREDD](https://www.patreon.com/posts/predd-57672680)                                 |                                                |
-| EMI® RS124™                                                  | [YALA](https://www.patreon.com/posts/yala-34323384)                                   | Similar to Altec® 436c™                        |
+| EMI® RS124™                                                  | [YALA](https://www.patreon.com/posts/yala-34323384) / [ATONE](https://www.patreon.com/posts/atone-102446579) | Similar to Altec® 436c™ |
 | EMT® 140™                                                    | [Room041](https://www.patreon.com/posts/room041-55993203)                             |                                                |
 | Esoteric Audio Research (E.A.R)® Limiting Amplifier 660™     | [VariMoon](https://www.patreon.com/posts/varimoon-34323360)                           | Similar to Fairchild® 660™                     |
 | Harrison® 32C™                                               | [HARQULES](https://www.patreon.com/posts/harqules-34306427)                           |                                                |
