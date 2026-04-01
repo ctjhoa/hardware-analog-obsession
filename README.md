@@ -44,6 +44,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | Studer® 169 EQ™                                              | [STEQ](https://www.patreon.com/posts/steq-35318911)                                   |                                                |
 | Telefunken® W395 EQ™                                         | [G395a](https://www.patreon.com/posts/g395a-50059272)                                 |                                                |
 | Teletronix® LA-2A™                                           | [LALA](https://www.patreon.com/posts/lala-36128829)                                   |                                                |
+| Teletronix® LA-3A™                                           | [LAEA](https://www.patreon.com/posts/laea-153437904)                                  |                                                |
 | Trident Audio® 80B-500 EQ™                                   | [TREQ](https://www.patreon.com/posts/treq-34323331)                                   |                                                |
 | Trident® CB-9146™ Compressor                                 | [FetCB](https://www.patreon.com/posts/fetcb-92444426)                                 |                                                |
 | Regular John Recording (RJR)® Baxandall Mastering EQ™        | [MAXBAX](https://www.patreon.com/posts/maxbax-64791433)                               |                                                |
