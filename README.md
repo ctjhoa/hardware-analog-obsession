@@ -30,6 +30,7 @@ The maintainer of this page respects all intellectual property rights. This list
 | EMI® RS124™                                                  | [YALA](https://www.patreon.com/posts/yala-34323384) / [ATONE](https://www.patreon.com/posts/atone-102446579) | Similar to Altec® 436c™ |
 | EMT® 140™                                                    | [Room041](https://www.patreon.com/posts/room041-55993203)                             |                                                |
 | Esoteric Audio Research (E.A.R)® Limiting Amplifier 660™     | [VariMoon](https://www.patreon.com/posts/varimoon-34323360)                           | Similar to Fairchild® 660™                     |
+| Fairchild® 660™                                              | [MuChild](https://www.patreon.com/posts/157419821)                                    |                                                |
 | Harrison® 32C™                                               | [HARQULES](https://www.patreon.com/posts/harqules-34306427)                           |                                                |
 | Helios® Type 69™ Preamp and EQ                               | [HLQSE](https://www.patreon.com/posts/hlqse-34292290)                                 |                                                |
 | Mojo Maestro                                                 | [MoMa](https://www.patreon.com/posts/moma-100041804)                                  |                                                |
